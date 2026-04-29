@@ -1,11 +1,31 @@
 {
-    "spider": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/spider.txt;md5;faab56b39d8e181e5ce343d6775137e5",
+    "spider": "https://cdn.jsdelivr.net/gh/duduwangzi/TV@main/spider.txt;md5;faab56b39d8e181e5ce343d6775137e5",
     "wallpaper": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
-    "标识": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+    "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
     "sites": [
         {
             "key": "NewDouBan",
-            "name": "🐮【豆瓣】🐮",
+            "name": "🐮【公众号：王二小放牛娃】🐮",
+            "type": 3,
+            "api": "csp_NewDouBanGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
+        },
+        {
+            "key": "Doubana",
+            "name": "🐮【更新日期:20260426】🐮",
+            "type": 3,
+            "api": "csp_NewDouBanGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
+        },
+        {
+            "key": "Doubana",
+            "name": "⬇️【网盘类先扫码】⬇️",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -640,6 +660,166 @@
                 "type": "list"
             }
         },
+        {
+            "key": "emby",
+            "name": "🀄️emby┃4K🀄️",
+            "type": 3,
+            "api": "csp_EmbyGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "AList",
+            "name": "👁️Alist┃DIY👁️",
+            "type": 3,
+            "api": "csp_AListGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "webdav",
+            "name": "👁️WebDav┃DIY👁️",
+            "type": 3,
+            "api": "csp_WebDAVGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "MyQuark",
+            "name": "💓我的┃夸克💓‍",
+            "type": 3,
+            "api": "csp_MyQuarkGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 50,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "MyBaiDu",
+            "name": "💓我的┃百度💓‍",
+            "type": 3,
+            "api": "csp_MyBaiDuGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 50,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "MyUcPan",
+            "name": "💓我的┃UC💓‍",
+            "type": 3,
+            "api": "csp_MyUcPanGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 50,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "MyPan189",
+            "name": "💓我的┃天翼💓‍",
+            "type": 3,
+            "api": "csp_MyPan189Guard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 50,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "MyPan115",
+            "name": "💓我的┃115💓‍",
+            "type": 3,
+            "api": "csp_MyPan115Guard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 50,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "MyPan123",
+            "name": "💓我的┃123💓‍",
+            "type": 3,
+            "api": "csp_MyPan123Guard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 50,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "SoTySo",
+            "name": "🎠给力┃天逸🎠",
+            "type": 3,
+            "api": "csp_SoTySoGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "SoBaiDuSo",
+            "name": "🎠给力┃百度🎠",
+            "type": 3,
+            "api": "csp_SoBaiDuSoGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "SoHaiYin",
+            "name": "🎠海音┃综合🎠",
+            "type": 3,
+            "api": "csp_SoHaiYinGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "SoTjSo",
+            "name": "🎠太极┃综合🎠",
+            "type": 3,
+            "api": "csp_SoTjSoGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "SoAiPan",
+            "name": "🎠给力┃综合🎠",
+            "type": 3,
+            "api": "csp_SoAiPanGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "So97So",
+            "name": "🎠九七┃综合🎠",
+            "type": 3,
+            "api": "csp_So97SoGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "SoZhaoPanSo",
+            "name": "🎠找盘┃综合🎠",
+            "type": 3,
+            "api": "csp_SoZhaoPanSoGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_PushGuard",
+            "searchable": 1,
+            "changeable": 0
+        }
     ],
     "doh": [
         {
