@@ -5,27 +5,7 @@
     "sites": [
         {
             "key": "NewDouBan",
-            "name": "🐮【公众号：王二小放牛娃】🐮",
-            "type": 3,
-            "api": "csp_NewDouBanGuard",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
-        },
-        {
-            "key": "Doubana",
-            "name": "🐮【更新日期:20260426】🐮",
-            "type": 3,
-            "api": "csp_NewDouBanGuard",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
-        },
-        {
-            "key": "Doubana",
-            "name": "⬇️【网盘类先扫码】⬇️",
+            "name": "🐮【豆瓣】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -683,78 +663,6 @@
             "api": "csp_WebDAVGuard",
             "searchable": 1,
             "changeable": 0
-        },
-        {
-            "key": "MyQuark",
-            "name": "💓我的┃夸克💓‍",
-            "type": 3,
-            "api": "csp_MyQuarkGuard",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 50,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "MyBaiDu",
-            "name": "💓我的┃百度💓‍",
-            "type": 3,
-            "api": "csp_MyBaiDuGuard",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 50,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "MyUcPan",
-            "name": "💓我的┃UC💓‍",
-            "type": 3,
-            "api": "csp_MyUcPanGuard",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 50,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "MyPan189",
-            "name": "💓我的┃天翼💓‍",
-            "type": 3,
-            "api": "csp_MyPan189Guard",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 50,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "MyPan115",
-            "name": "💓我的┃115💓‍",
-            "type": 3,
-            "api": "csp_MyPan115Guard",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 50,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "MyPan123",
-            "name": "💓我的┃123💓‍",
-            "type": 3,
-            "api": "csp_MyPan123Guard",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 50,
-            "style": {
-                "type": "list"
-            }
         },
         {
             "key": "SoTySo",
