@@ -737,9 +737,6 @@
         {
             "name": "proxy",
             "hosts": [
-                "hlsztemgsplive.miguvideo.com=hlsztemgsplive.188766.xyz",
-                "cache.ott.fifalive.itv.cmvideo.cn=fifalive.188766.xyz",
-                "iptv.huuc.edu.cn=huucv6.188766.xyz",
                 "raw.githubusercontent.com",
                 "googlevideo.com",
                 "cdn.v82u1l.com",
