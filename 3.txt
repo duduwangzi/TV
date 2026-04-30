@@ -1,5 +1,4 @@
 {
-  "wallpaper": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
   "vod": [
     {
       "name": "豆瓣",
