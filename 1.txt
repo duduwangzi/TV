@@ -1,0 +1,473 @@
+  "vod": [
+    {
+      "name": "关注TG频道@stymei",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+      "version": 4,
+     ,
+      "webSite": "https://movie.douban.com",
+      "codeID": "4r9lCCTjjoqI5sGDkzho2sNKSL2BQXpc",
+      "order": "A00",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Jian_douban2.txt",
+      "type": 101
+    },
+    {
+      "name": "bilibili直播",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+      "version": 9,
+     ,
+      "env": "bili_cookie##bili_cookie 用于获取个性化推荐和高清视频",
+      "webSite": "doubi",
+      "codeID": "9Djl2QaDMOIgvhl8tYAhdVowEsmuPZpA",
+      "order": "B",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_doubi.txt",
+      "type": 101
+    },
+        {
+            "name": "[主用] 瓜子影视",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+            "version": 4,
+     ,
+            "webSite": "http://api.gudvxty.com",
+            "instance": "gzys20240822",
+            "order": "B",
+            "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_gzys.js",
+            "type": 100
+        },
+        {
+            "name": "[备用] 瓜子影视",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+            "version": 4,
+     ,
+            "webSite": "http://api.gudvxty.com",
+            "codeID": "ra5Z3wtXKshzSMK2",
+            "instance": "gzapp20241001",
+            "order": "B",
+            "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_gzapp.txt",
+            "type": 100
+        },
+    {
+      "name": "荐片",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+      "version": 2,
+     ,
+      "webSite": "jianpian",
+      "codeID": "3UXc19H0H2Dzz4vJEO4yFIGCmKXIlfoM",
+      "order": "B",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_jianpian.txt",
+      "type": 101
+    },
+        {
+            "name": "乌云影视",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+            "version": 3,
+           ,
+            "webSite": "https://wooyun.tv",
+            "order": "B",
+            "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_wooyun.js",
+            "type": 101
+        },
+    {
+      "name": "两个BT",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+      "version": 3,
+     ,
+      "webSite": "https://www.bttwoo.com",
+      "order": "B",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_bttwoo.js",
+      "type": 101
+    },
+    {
+      "name": "修罗影视",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+      "version": 2,
+     ,
+      "webSite": "https://xl01.com.de",
+      "order": "B",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_biliys.js",
+      "type": 101
+    },
+    {
+      "name": "欧乐影视",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+      "version": 3,
+     ,
+      "webSite": "https://www.olehdtv.com",
+      "instance": "olevod20240620",
+      "order": "B",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_olevod.js",
+      "type": 100
+    },
+    {
+      "name": "奇优影院",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+      "version": 2,
+     ,
+      "webSite": "http://www.qiyoudy4.com",
+      "order": "B",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_qiyou.js",
+      "type": 101
+    },
+    {
+      "name": "1080在线",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+      "version": 4,
+     ,
+      "webSite": "https://www.zxzjhd.com",
+      "codeID": "xgFE0TUb8SZsOIlZzcUkxRtewYrSozoC",
+      "order": "B",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_zxzj.txt",
+      "type": 101
+    },
+    {
+      "name": "人人视频",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+      "version": 2,
+     ,
+      "webSite": "RRSP",
+      "codeID": "a2buZX6jr7AcTQppx1MTcXMQOGNZFAAF",
+      "order": "B",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_rrsp.txt",
+      "type": 101
+    },
+    {
+      "name": "韩剧看看",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+      "version": 2,
+     ,
+      "webSite": "https://www.hanjukankan.com",
+      "instance": "hjkk20240624",
+      "order": "B",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_hjkk.js",
+      "type": 100
+    },
+    {
+      "name": "八号影视",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+      "version": 1,
+     ,
+      "webSite": "https://www.bahaotv.com",
+      "order": "C",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_bhys.js",
+      "type": 101
+    },
+    {
+      "name": "iKanBot",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+      "version": 1,
+     ,
+      "webSite": "https://v.aikanbot.com",
+      "codeID": "xWEHbLCxcGGhC4tstiAXbQ5NT6FJz50X",
+      "order": "B",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_iKanBot.txt",
+      "type": 101
+    },
+    {
+      "name": "河马短剧",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+      "version": 1,
+     ,
+      "webSite": "https://www.kuaikaw.cn",
+      "codeID": "y1JFo0Sxs3fVwTggELeJ4U4MWLVKM1dK",
+      "order": "B",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_hmdj.txt",
+      "type": 101
+    },
+    {
+      "name": "E-ACG",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+      "version": 1,
+     ,
+      "webSite": "https://eacg1.com",
+      "order": "C",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_eacg.js",
+      "type": 101
+    },
+    {
+      "name": "E-ACG2",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+      "version": 1,
+     ,
+      "webSite": "https://eacg1.com",
+      "order": "C",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_eacg2.js",
+      "type": 101
+    },
+    {
+      "name": "girigirilove",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+      "version": 1,
+     ,
+      "webSite": "https://anime.girigirilove.com",
+      "order": "C",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_girigirilove.js",
+      "type": 101
+    },
+    {
+      "name": "酷我听书",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+      "version": 1,
+     ,
+      "webSite": "http://tingshu.kuwo.cn",
+      "codeID": "USdWmrhBwHEAElFD428HKfByc0WbhzTw",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_kwts.txt",
+      "type": 101
+    },
+        {
+            "name": "GD音乐台",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+            "version": 4,
+           ,
+            "webSite": "https://music.gdstudio.xyz/",
+            "codeID": "M9nkucZA62rwJZsCkCkvdxuzYlRmmE4G",
+            "order": "B",
+            "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_gdstudio.txt",
+            "type": 101
+        },
+    {
+      "name": "无水印",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://api.wsyzy.net/api.php/provide/vod"
+    },
+    {
+      "name": "爬虫",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://dy.7772888.xyz/api.php/tvbox"
+    },
+    {
+      "name": "极速",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json"
+    },
+    {
+      "name": "暴风",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "http://by.bfzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "电影天堂",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "http://dyttzyw.com/api.php/provide/vod/?ac=list"
+    },
+    {
+      "name": "豆瓣",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://caiji.doubanzy.cc/api.php/provide/vod/at/josn"
+    },
+    {
+      "name": "茅台",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn"
+    },
+    {
+      "name": "如意",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "http://cj.rycjapi.com/api.php/provide/vod/?ac=list"
+    },
+    {
+      "name": "量子",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://cj.lziapi.com/api.php/provide/vod/?ac=list"
+    },
+    {
+      "name": "卧龙",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://collect.wolongzy.cc/api.php/provide/vod"
+    },
+    {
+      "name": "360",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://360zyzz.com/api.php/provide/vod"
+    },
+    {
+      "name": "U酷",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list"
+    },
+    {
+      "name": "天涯",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://tyyszyapi.com/api.php/provide/vod/?ac=list"
+    },
+    {
+      "name": "无尽",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://api.wujinapi.me/api.php/provide/vod/?ac=list"
+    },
+    {
+      "name": "iQIYI",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://iqiyizyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "ikun",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json"
+    },
+    {
+      "name": "魔都",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list"
+    },
+    {
+      "name": "百度云",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://api.apibdzy.com/api.php/provide/vod/?ac=list"
+    },
+    {
+      "name": "闪电",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list"
+    },
+    {
+      "name": "红牛",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/josn"
+    },
+    {
+      "name": "光速",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8"
+    },
+    {
+      "name": "新浪",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8"
+    },
+    {
+      "name": "快车",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list"
+    },
+    {
+      "name": "金鹰",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json"
+    },
+    {
+      "name": "猫眼",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://api.maoyanapi.top/api.php/provide/vod"
+    },
+    {
+      "name": "旺旺",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://api.wwzy.tv/api.php/provide/vod/?ac=list"
+    },
+    {
+      "name": "虎牙",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json"
+    },
+    {
+      "name": "豪华",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json"
+    },
+    {
+      "name": "速播",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://subocj.com/api.php/provide/vod/from/subm3u8/at/json"
+    },
+    {
+      "name": "非凡",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://ffzy1.tv/api.php/provide/vod"
+    },
+    {
+      "name": "樱花",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list"
+    },
+    {
+      "name": "优质",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "http://api.yzzy-api.com/inc/apijson.php?ac=list"
+    },
+    {
+      "name": "鸭鸭",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://cj.yayazy.net/api.php/provide/vod/?ac=list"
+    },
+    {
+      "name": "牛牛",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://api.niuniuzy.me/api.php/provide/vod"
+    },
+    {
+      "name": "最大",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "http://zuidazy.me/api.php/provide/vod"
+    },
+    {
+      "name": "飘零",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://p2100.net/api.php/provide/vod"
+    },
+    {
+      "name": "1080",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://api.1080zyku.com/inc/apijson.php"
+    },
+    {
+      "name": "金蝉",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://zy.jinchancaiji.com/api.php/provide/vod"
+    },
+    {
+      "name": "艾旦影视",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://lovedan.net/api.php/provide/vod"
+    },
+    {
+      "name": "OK",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://api.okzyw.net/api.php/provide/vod/?ac=list"
+    },
+    {
+      "name": "索尼",
+      "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
+     ,
+      "url": "https://suoniapi.com/api.php/provide/vod/?ac=list"
+    }
+  ]
+}
