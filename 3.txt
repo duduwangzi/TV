@@ -1,10 +1,10 @@
 {
+  "image": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
   "vod": [
     {
-      "name": "关注TG频道@stymei",
+      "name": "豆瓣",
       "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
       "version": 4,
-      
       "webSite": "https://movie.douban.com",
       "codeID": "4r9lCCTjjoqI5sGDkzho2sNKSL2BQXpc",
       "order": "A00",
@@ -15,7 +15,6 @@
       "name": "bilibili直播",
       "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
       "version": 9,
-      
       "env": "bili_cookie##bili_cookie 用于获取个性化推荐和高清视频",
       "webSite": "doubi",
       "codeID": "9Djl2QaDMOIgvhl8tYAhdVowEsmuPZpA",
@@ -27,7 +26,6 @@
             "name": "[主用] 瓜子影视",
       "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
             "version": 4,
-      
             "webSite": "http://api.gudvxty.com",
             "instance": "gzys20240822",
             "order": "B",
@@ -38,7 +36,6 @@
             "name": "[备用] 瓜子影视",
       "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
             "version": 4,
-      
             "webSite": "http://api.gudvxty.com",
             "codeID": "ra5Z3wtXKshzSMK2",
             "instance": "gzapp20241001",
@@ -50,7 +47,6 @@
       "name": "荐片",
       "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
       "version": 2,
-      
       "webSite": "jianpian",
       "codeID": "3UXc19H0H2Dzz4vJEO4yFIGCmKXIlfoM",
       "order": "B",
@@ -61,7 +57,6 @@
             "name": "乌云影视",
       "logo": "https://gh-proxy.org/https://github.com/duduwangzi/TV/blob/main/logo.png",
             "version": 3,
-            
             "webSite": "https://wooyun.tv",
             "order": "B",
             "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_wooyun.js",
